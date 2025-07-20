@@ -12,7 +12,7 @@
 ## 🧠 Portfolio Projects
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Pizzeria Ltd. Data Model & Insights]([https://github.com/raisagyl/portfolio/tree/main/power-bi-retail-dashboard](https://github.com/raisagyl88/portfolio/blob/main/Pizzeria%20Ltd.%20Data%20Model%20%26%20Insights.pbix)) | Cleaned, modeled and visualized sales data with forecasting | Power BI 
+| [Pizzeria Ltd. Data Model & Insights](https://github.com/raisagyl88/portfolio/blob/main/Pizzeria%20Ltd.%20Data%20Model%20%26%20Insights.pbix) | Cleaned, modeled and visualized sales data with forecasting | Power BI 
 
 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/raisaganyuli)
 
