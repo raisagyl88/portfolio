@@ -14,5 +14,5 @@
 |--------|-------------|-------|
 | [Pizzeria Ltd. Data Model & Insights](https://github.com/raisagyl/portfolio/tree/main/power-bi-retail-dashboard) | Cleaned, modeled and visualized sales data with forecasting | Power BI 
 
-📫 Let’s connect on [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+📫 Let’s connect on [LinkedIn](www.linkedin.com/in/raisaganyuli)
 
