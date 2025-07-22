@@ -4,11 +4,6 @@
 📊 Skilled in Power BI, Excel, Python, R, Financial Modelling  
 📈 Building data-driven projects to turn finance into insights
 
-## 🔧 Tools & Skills
-- Power BI, Excel, Python (pandas, matplotlib), R
-- DAX, Power Query, Financial Analysis
-- Equity Research, Forecasting, Data Visualization
-
 ## 🧠 Portfolio Projects
 | Project | Description | Tools |
 |--------|-------------|-------|
